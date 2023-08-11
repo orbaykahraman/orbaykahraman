@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍💻 About Me:
 👨‍🎓First of all, I am a student who continues to learn.<br>👨‍💻I’m working at Allianz Türkiye as Intern Java Developer <br>🌱 I am currently learning Java and Angular <br>💬 You can ask me anything you want.
 
 
