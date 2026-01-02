@@ -1,6 +1,6 @@
 #  About Me
 - First of all, I am a student who continues to learn.<br>
-- I am currently learning Java and Angular <br>
+- I am currently learning Java and Spring boot <br>
 - You can ask me anything you want.
 
 
